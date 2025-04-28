@@ -6,10 +6,13 @@ Learning Model with Technical and Fundamental Indicators, Mathematics, Accepted 
 # Requirements
 The codes require `python >= 3.11`. Main required libraries and their versions are:
 ```console
-numpy >= 1.26.4
-pandas >= 2.2.2
+numpy >= 2.0.2
+pandas >= 2.2.3
 tensorflow >= 2.18.0
 scikit-learn >= 1.6.1
-matplotlib >= 3.10.0
-tqdm >= 4.67.1
+keras >= 3.9.0
+matplotlib >= 3.10.1
+seaborn >= 0.13.2
+ta >= 0.11.0
+
 ```
