@@ -1,7 +1,6 @@
 # Forecasting Forex
 
-Abolfazl Saghafi, Maryam Bagherian, Farhad Shokoohi*, Forecasting Forex EUR/USD Closing Prices using Dual-Input Deep
-Learning Model with Technical and Fundamental Indicators, Mathematics, Accepted April 2025.
+Abolfazl Saghafi, Maryam Bagherian, Farhad Shokoohi*, Forecasting Forex EUR/USD Closing Prices using Dual-Input Deep Learning Model with Technical and Fundamental Indicators, Mathematics, 2025, 13(9), 1472. https://doi.org/10.3390/math13091472
 
 # Requirements
 The codes require `python >= 3.11`. Main required libraries and their versions are:
